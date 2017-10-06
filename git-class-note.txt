@@ -4,3 +4,8 @@
 	2.git commit -m"说明文件内容"
 掌握工作区状态：git status
 查看修改内容：git diff
+查看提交历史：git log //git log --pretty=oneline
+回退到上一版本：git reset --hard HEAD^
+查看命令历史：git reflog
+
+
