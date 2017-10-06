@@ -1,0 +1,6 @@
+初始化Git仓库:git init 
+添加文件到git仓库：
+	1.git add <file>
+	2.git commit -m"说明文件内容"
+掌握工作区状态：git status
+查看修改内容：git diff
